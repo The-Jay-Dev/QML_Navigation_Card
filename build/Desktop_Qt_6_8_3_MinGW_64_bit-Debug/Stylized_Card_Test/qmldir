@@ -1,0 +1,5 @@
+module Stylized_Card_Test
+typeinfo appStylized_Card_Test.qmltypes
+prefer :/qt/qml/Stylized_Card_Test/
+Main 1.0 Main.qml
+

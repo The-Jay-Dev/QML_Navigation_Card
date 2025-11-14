@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/jayem/Documents/Stylized_Card_Test
+-cmake-output
+-output-file
+C:/Users/jayem/Documents/Stylized_Card_Test/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/.qt/qml_imports/appStylized_Card_Test_conf.cmake
+-importPath
+C:/Users/jayem/Documents/Stylized_Card_Test/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/Stylized_Card_Test
+-importPath
+C:/Users/jayem/Documents/Stylized_Card_Test/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.8.3/mingw_64/qml
+-qrcFiles
+C:/Users/jayem/Documents/Stylized_Card_Test/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/.qt/rcc/qmake_Stylized_Card_Test.qrc
+C:/Users/jayem/Documents/Stylized_Card_Test/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/.qt/rcc/appStylized_Card_Test_raw_qml_0.qrc

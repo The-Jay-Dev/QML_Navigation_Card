@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/Stylized_Card_Test/">
+    <file alias="Main.qml">C:/Users/jayem/Documents/Stylized_Card_Test/Main.qml</file>
+    <file alias="images/pexels-pixabay-41949.png">C:/Users/jayem/Documents/Stylized_Card_Test/images/pexels-pixabay-41949.png</file>
+    <file alias="images/compass-panel.png">C:/Users/jayem/Documents/Stylized_Card_Test/images/compass-panel.png</file>
+    <file alias="images/info-panel.png">C:/Users/jayem/Documents/Stylized_Card_Test/images/info-panel.png</file>
+  </qresource>
+</RCC>
+

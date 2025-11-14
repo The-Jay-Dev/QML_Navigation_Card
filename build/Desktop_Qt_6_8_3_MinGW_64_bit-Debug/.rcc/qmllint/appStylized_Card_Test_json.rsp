@@ -1,0 +1,12 @@
+--bare
+-I
+C:/Users/jayem/Documents/Stylized_Card_Test/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug
+-I
+C:/Qt/6.8.3/mingw_64/qml
+--resource
+C:/Users/jayem/Documents/Stylized_Card_Test/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/.qt/rcc/qmake_Stylized_Card_Test.qrc
+--resource
+C:/Users/jayem/Documents/Stylized_Card_Test/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/.qt/rcc/appStylized_Card_Test_raw_qml_0.qrc
+C:/Users/jayem/Documents/Stylized_Card_Test/Main.qml
+--json
+C:/Users/jayem/Documents/Stylized_Card_Test/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/appStylized_Card_Test_qmllint.json
