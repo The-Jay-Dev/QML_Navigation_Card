@@ -12,7 +12,7 @@ int main(int argc, char *argv[])
         &app,
         []() { QCoreApplication::exit(-1); },
         Qt::QueuedConnection);
-    engine.loadFromModule("Stylized_Card_Test", "Main");
+    engine.loadFromModule("Stylized_Card", "Main");
 
     return app.exec();
 }
