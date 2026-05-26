@@ -1,6 +1,6 @@
 # Navigation Card
 
-A Qt Quick demo card that explores creating visually styled UI cards using the Qt5GraphicalEffects library. This project demonstrates how layered images, icons, overlays, and visual effects can be combined to create a polished navigation-themed card interface.
+A Qt Quick demo card that explores creating visually styled UI cards using the Qt5GraphicalEffects library. This project demonstrates how layered images, icons, overlays, and visual effects can be combined to create a navigation-themed card interface.
 
 <img width="1917" height="998" alt="Screenshot 2025-11-18 063913" src="https://github.com/user-attachments/assets/8032112d-2569-4d2f-9492-22608b8ef1bf" />
 
