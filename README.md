@@ -40,11 +40,3 @@ Due to limitations of the graphical effects library, this demo includes pre-edit
 - Demonstrating image layering in QML
 
 ---
-
-
-
-## License
-
-This project is open source and available under the MIT License.
-
----
